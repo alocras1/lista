@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3UMADRID
+
 
 #EXTINF; -1 ,JUSTICIA TV group-title="NACIONALES" ,JUSTICIA TV
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
@@ -31,13 +32,13 @@ https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index_4.m3u8
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunklist_w208752349_b1428000_sleng.m3u8
 
 #EXTINF; -1 ,NET TV group-title="ARGENTINA" ,NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=6931136
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF; -1 ,MALAGA group-title="ESPAÑA" ,MALAGA
 https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 
 #EXTINF; -1 ,SINTESIS TV group-title="NACIONALES" ,SINTESIS TV
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CvkEj8_OPsaPa6uAOiarHRDLPUSkfDglZKl8W6MROYLc_9pafPQIOk5CjfQuZgViACUkKr67JA1zT6TZahfyQhyNxI4nLmx24aAx5JQtiyd9dn5EvtR2cJEL3FnPpjg1LIEWEi84AyumoXljBXziur4OjjS3qAaLmR0LyLPP6TVTqpydG0adOqShjHbC7_ruFlCUq3bvy3avcMFQSala8oXfts0EILbNQv8js6zukfFX9LlxZ_kgn_V-37yyW1jyjP_-SO4f3YmjEmNJyK3kIUxqb2fbVwqPl-eO4z5jrsOoZJZNc9tJhBs5T1YHsN8_ciTy6qI6m1iTx-aL5e4Uzz8zZu5R6pILZir1zzV6KWoZYcnlHN-Q6yDLmNlWE_TxiLzVXMHCPBwjmUPYLdZhzsaKMZMGr9TVI1dapEPKKkI9YEaMvbYjZJUWMhzoTs7fSMlt3M9I-LAYWKpf_wfGmtQ8p-NvF-xYUFC7MbG7C0BF2qjgc3DLyJL3xs5H7FJREF_N4f_k2JWYdI_zCmUhlsuCPLrmaaOlcWyIvT2dGV6RBSzdXf1tYZeiG3Vjxjd7v_rrUUCDUEGYZ94UoavH6YubIZZYsC0W-w3Ru54TLurxZP54dBWUNpXtDsB2pyyI0ig76Fo2e318tKDkD_txZBSxk0Ng6Pf-N5cHG-r7fPvWS4HSo_oxsUvkvJg3mvwcCMXXRPkY6ho7ITfVN9zGkobHkkj0Zqf5CMrUnySx86NUt-zYanwm7YtbKOVqy5XloNi5ESmyzs5w5P3A3_OS254vsM-mDo8gMxyG8LT45HetjmXrpWFuUuBNUcTKMSE71vBkabCb20hOkE9NGgz0IuZJMFU7_icB9wEgASoJdXMtZWFzdC0yMPgD.m3u8
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CvoEkS9pUkEBDdY9HvhLugQRW8mFFvsS-YFB8Q-YZvdYLIVdZo9V82yQFBuyb4eGpUMbuQi1tJ9qykFAv3iKMgqmlybyortU6cujNA1IBE8mAsikObUplSU0Y_t2U42MaCPIyUxSApH5YCJf89bqzhxgTNe2m23A1CkpMs7kPFtZGGPLwLTxOmSEfAzxgNrFdy2avao4miw58giIqThtZQy3XHnpr4rSSQ60wzuBJwlYGe310yqWRVsUgsk_QM0PZeY9Gs4XVFI2-utGqAwqNCYFB5bfqFMh9oG49-lwJJHmctNEbL1V6keUz3XfeTQ6HVtED_5FbTPVbI5S9X8E3t-6yc5RdMrEEHqd1X62anIal0xZj_ThQ7m4a5XWnDPiPtBVxIQ171fcxS25B8yzqraRZwFxLg8dfKpBhyBWAR5s7ZJ0thLvq8HfT9YML2HLyeJwYHdSWhbfr3IBf1L_4OMPgpwb9spyMCL8nQ9DQXzDNFcP4n3lHKThpusj_mmw41Mdpy-Xxk2P4w2-RODCqYbsz4ocNUgqd4A2pTKCqj_FtuYXOarOAaat3kJ6UcqI5A6UsPa3bx8IdcuLsNmLETI4NEgRIutuCJuJciH5CaBFriuDU3ngedO6-bq47WML5FXI6Zj1z4HdpCckexqL3_jKAqtgQ_6E79WQypxfA8NV5AekiZyDfPZhZwnR9mcLJ4hnla0cf5KSDQjckiJx4SyxB9QEny46EUKrRYx5kuYPLwbSapUwEU-fb3IyY1HUkJJo8S5L05WEIgXUI0_hXLsOfu0RX1q5UsdBZRdXwRfgdoNKEm5KHPZSm97AB-zS6R9gV0uiSfmkJf9liBoMHbMmzwB4iJ4UxIZvIAEqCXVzLWVhc3QtMTC0Ag.m3u8
 
 #EXTINF; -1 ,16.1 PUEBLA group-title="NACIONALES" ,16.1 PUEBLA
 http://189.240.210.28:1935/envivo/puecom/chunklist_w1513153658.m3u8
@@ -52,7 +53,7 @@ https://cdnh74.iblups.com/hls/irtp.m3u8
 https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 
 #EXTINF; -1 ,QUIERO TV group-title="NACIONALES" ,QUIERO TV
-https://stream-03.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOhFJwbnHAAtFr4VGpG-tMFO9-X9QNFCFMY_5fNvZdZid)/dm/3/x8452uw/s/live-2.m3u8
+https://stream-04.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOiEoA-ya_oF3chUipkKCvZOEapwCap5uxK9h37vAV25v)/dm/3/x8452uw/s/live-2.m3u8
 
 #EXTINF; -1 ,PANAMERICANA group-title="PERU" ,PANAMERICANA
 https://cdnh71.iblups.com/hls/ptv2.m3u8
@@ -64,7 +65,7 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w804862603.m3u8
 
 #EXTINF; -1 ,BOLIVIA TV 7.1 group-title="BOLIVIA" ,BOLIVIA TV 7.1
-https://5ca39be538307.streamlock.net/boliviatv/videoboliviatv/chunklist_w1583118453.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIyIDY6MTU6NDMgUE0maGFzaF92YWx1ZT1vWFlSU01YYWJFWHRucnJjbG5qa1NBPT0mdmFsaWRtaW51dGVzPTUwJmlkPQ%3D%3D
+https://5ca39be538307.streamlock.net/boliviatv/videoboliviatv/chunklist_w799473094.m3u8
 
 #EXTINF; -1 ,EXITOSA TV group-title="PERU" ,EXITOSA TV
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
@@ -82,7 +83,7 @@ https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsixVU3MNdFK92sosM
 https://streannlivevostv.cachefly.net/vostv1/vostv1/chunks.m3u8
 
 #EXTINF; -1 ,CANAL 22 group-title="NACIONALES" ,CANAL 22
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w1138254959_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIyIDY6MzM6NDkgUE0maGFzaF92YWx1ZT1NOG80VGdPMW9VSFBGeDlwQU9TelhnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w1138254959_b1428000_sleng.m3u8
 
 #EXTINF; -1 ,CANELA TV group-title="NOTICIAS" ,CANELA TV
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1489798091.m3u8
@@ -94,7 +95,7 @@ https://stv.janus.cl/playlist/stream.m3u8?s=lq&t=&id=9b3cece8-b56a-ed50-de5c-894
 https://stream-04.sv4.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSppVnbwzn22NQ8u0oUNNfqQ3AwRtY5sordz2sAKMkjvI-)/dm/3/x81cvsk/s/live-2.m3u8
 
 #EXTINF; -1 ,TELEVICENTRO group-title="HONDURAS" ,TELEVICENTRO
-https://stream-02.sv4.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRK1Y8yWXLiS-RtBJ8zwORevFh0Utqqw3VmHDmOo6oBsn)/dm/3/x88jdft/s/live-3.m3u8
+https://stream-04.sv4.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRDrVTl1lMtDx1JG83XUa6wv2m0AxabIsTzRx4gl96mH-)/dm/3/x88jdft/s/live-3.m3u8
 
 #EXTINF; -1 ,RTN group-title="ARGENTINA" ,RTN
 http://media.neuquen.gov.ar/rtn/television/chunklist_w178733757.m3u8
@@ -108,7 +109,7 @@ https://panel.dattalive.com/8204/8204/chunklist_w615244511.m3u8
 #EXTINF; -1 ,ENLACE TV  group-title="COLOMBIA" ,ENLACE TV
 https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmKsoWC9y2pLAAAA/chunklist_w672066301.m3u8
 
-#EXTINF; -1 ,TVES  group-title="VENEZUELA" ,TVES
+#EXTINF; -534 ,TVES  group-title="VENEZUELA" ,TVES
 https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
 
 #EXTINF; -1 ,7 MURCIA  group-title="ESPAÑA" ,7 MURCIA
@@ -136,7 +137,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w2003575962_b1128000_DVR_sleng.m3u8
 
 #EXTINF; -1 ,PARAGUAY TV  group-title="PARAGUAY"  ,PARAGUAY TV
-https://live-ak.vimeocdn.com/exp=1655491106~acl=%2Fc98bc59f-8b8c-4152-bcb0-ba2f0d09bae0%2F%2A~hmac=54b034e9769888d66eb29de05fbcd418becd6ad196ea81571d1a8135fa2b8858/c98bc59f-8b8c-4152-bcb0-ba2f0d09bae0/chunklist_b3256000.m3u8
+https://live-ak.vimeocdn.com/exp=1655680197~acl=%2Fe5811f43-1804-4bd4-9e57-9b5a02652590%2F%2A~hmac=51fcee53d01ed9f92d3791822cc99c817ba7273fd9bda867a4dc4f4eeab1d163/e5811f43-1804-4bd4-9e57-9b5a02652590/chunklist_b3256000.m3u8
 
 #EXTINF; -1 ,MULIMEDIOS MTY group-title="NACIONALES"  ,MULIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -160,13 +161,13 @@ https://liveingesta118.cdnmedia.tv/canaltro2live/live-900/chunklist.m3u8
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w1534181250.m3u8
 
 #EXTINF; -1 ,TELE YUCATAN group-title="NACIONALES" ,TELE YUCATAN
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w1340938237.m3u8
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w143567177.m3u8
 
 #EXTINF; -1 ,IERT BAJA CALIFORNIA group-title="NACIONALES" ,IERT BAJA CALIFORNIA
 https://5e50264bd6766.streamlock.net/iert/videoiert/chunklist_w965423700.m3u8
 
 #EXTINF; -1 ,44 JALISCO group-title="NACIONALES" ,44 JALISCO
-https://stream-01.sv4.dailymotion.com/sec(z78NI1m0neFnRd2EIIVngJD7gWYAxuXJWeuBphKoLCctb0_i69mtOYNXjGwW31Bc)/dm/3/x3m1xfy/d/live-1.m3u8
+https://stream-02.sv4.dailymotion.com/sec(z78NI1m0neFnRd2EIIVngBqbC2VmMpQ_91bdGK9UKvnEKMF7uZGjdvlMLGhBiB7X)/dm/3/x3m1xfy/d/live-1.m3u8
 
 #EXTINF; -1 ,SMRT MICH group-title="NACIONALES" ,SMRT MICH
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/chunklist_w1044727263.m3u8
@@ -235,16 +236,16 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklis
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b500000.m3u8
 
 #EXTINF; -1 ,GEN group-title="PARAGUAY" ,GEN
-https://rds3gen.desdeparaguay.net/gentv/gentv_int_alta/chunklist_w1768896123.m3u8
+https://rds3gen.desdeparaguay.net/gentv/gentv_int_alta/chunklist_w845043901.m3u8?k=a3b5229e6056d79ba4eaea492f71286e1ff8ac9599668fef7734a662dcdfd914&exp=1655677757
 
 #EXTINF; -1 ,ESTRELLA TV  group-title="NACIONALES" ,ESTRELLA TV
-https://dai.google.com/linear/hls/pa/event/CvTZNYjrRC2HJU4io--aAA/stream/16ab2617-0fe9-411f-9cb8-4de8c167138d:TUL/variant/7b5d890e573d368d32825e912f252d08/bandwidth/2965600.m3u8
+https://dai.google.com/linear/hls/pa/event/CvTZNYjrRC2HJU4io--aAA/stream/7bfa5ef0-bf0e-45ab-836e-92df6d72f918:TUL/variant/7b5d890e573d368d32825e912f252d08/bandwidth/2965600.m3u8
 
 #EXTINF; -1 ,ESTRELLA news  group-title="NOTICIAS" ,ESTRELLA news
-https://dai.google.com/linear/hls/pa/event/y1Zjs_6rS3-ltPqmaNLQDQ/stream/190b10cc-b68d-4b93-897d-589c13212e76:TUL/variant/262b62073daab51012260c1415f318c0/bandwidth/2965600.m3u8
+https://dai.google.com/linear/hls/pa/event/y1Zjs_6rS3-ltPqmaNLQDQ/stream/608a47be-a88f-46f3-9703-32f3645fac6b:TUL/variant/262b62073daab51012260c1415f318c0/bandwidth/2965600.m3u8
 
 #EXTINF; -1 ,ESTRELLA games group-title="NACIONALES" ,ESTRELLA games
-https://dai.google.com/linear/hls/pa/event/QgzLP09xRdOZX2prvHHN4g/stream/081e27a9-c0d3-4d62-87cc-6b5e0ed795a0:TUL/variant/06442ec4c1d5e3effa688c0ceaae52b7/bandwidth/2965600.m3u8
+https://dai.google.com/linear/hls/pa/event/QgzLP09xRdOZX2prvHHN4g/stream/49968be7-a51a-44c7-bf8d-b135d81d6695:TUL/variant/06442ec4c1d5e3effa688c0ceaae52b7/bandwidth/2965600.m3u8
 
 #EXTINF; -1 ,TVN group-title="CHILE" ,TVN
 https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/profile_1/5a5d45dec0d343c08461ae76a15953be/chunklist_dvr_ssaiV.m3u8
@@ -256,7 +257,7 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqAFIFApNr-sF-yRY5Q2dnsrD7q
 https://canaltreceplus-live.logicideas.media/canaltreceplus-live/smil:live1plus.smil/chunklist_b2250000.m3u8
 
 #EXTINF; -1 ,12 MISIONES group-title="ARGENTINA" ,12 MISIONES
-https://g1.vxral-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
+https://g3.mc-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
 
 #EXTINF; -1 ,CAMPUSTV group-title="CHILE" ,CAMPUS TV 
 http://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
@@ -277,10 +278,10 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
 https://fake-live-eltorotv.flumotion.com/eltorotv/fake-live_480p/chunks.m3u8
 
 #EXTINF; -1 ,PLANETA TV group-title="MOVIES" ,PLANETA TV
-https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//chunklist_w75335508_b494407.m3u8
+https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//chunklist_w62995835_b365000.m3u8
 
 #EXTINF; -1 ,PLANETA TV KIDS group-title="MOVIES" ,PLANETA TV KIDS
-https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1879278438.m3u8
+https://mediacpstreamchile.com:1936/8152/8152/chunklist_w252746118.m3u8
 
 //ss3.domint.net:3134/otv_str/orbittv/chunklist_w333692900.m3u8
 
@@ -378,7 +379,7 @@ https://america-crtvg.flumotion.com/playlist.m3u
 https://pc-la7delarioja-hls.flumotion.com/promecal/live3_720p/chunks.m3u8
 
 #EXTINF; -1 ,TELE MADRID   group-title="ESPAÑA" ,TELE MADRID
-ttps://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
 
 #EXTINF; -1 ,LA OTRA   group-title="ESPAÑA" ,LA OTRA
 https://laotrahls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8
@@ -386,8 +387,47 @@ https://laotrahls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/lao
 #EXTINF; -1 ,EITB 1   group-title="ESPAÑA" ,EITB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 
-#EXTINF; -1 ,T 13  group-title="CHILE" ,T 13
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655621768/ei/KHSuYvr5AeSc2_gP0O2MwA0/ip/2806%3A2f0%3A5040%3A6bd%3Ab8da%3Ab16d%3Aa8cd%3Ad2f1/id/Ove87nZ_1D4.1/source/yt_live_broadcast/requiressl/yes/tx/24206051/txs/24206051%2C24206052%2C24206503%2C24206504/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC-HmUoSPQwIVuv1ptXSntLb3b2EZbLjLzYf35GmA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANS5st5QPDh5qlUgxsS2gSjsIpST8THDsf68oojEym-kAiBt-3ZU8flbxF8ZetopHnITjmH7sZcohrKYLQ2pLZlQsQ%3D%3D/file/index.m3u8
+#EXTINF; -1 ,ALVAVISION   group-title="ARGENTINA" ,ALVAVISION
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/5f47d1bb-097d-4a78-94d0-6ed357b1abeb/0.m3u8
 
-#EXTINF; -1 ,CANAL SUR   group-title="ESPAÑA" ,CANAL SUR
+#EXTINF; -1 ,TV AZTECA   group-title="NACIONALES" ,TV AZTECA
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+#EXTINF; -1 ,AZTECA DEPORTES  group-title="NACIONALES" ,AZTECA DEPORTES
+https://mdstrm.com/live-stream-playlist/5ff4650032ebd651c24732c8.m3u8
+
+#EXTINF; -1 ,AZTECA UNO  group-title="NACIONALES" ,AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF; -1 ,a más + 7.2  group-title="NACIONALES" ,a más + 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF; -1 ,TELE FORMULA group-title="NOTICIAS" ,TELE FORMULA
+https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
+
+#EXTINF; -1 ,TELESUR group-title="NOTICIAS" ,TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF; -1 ,NTN24 group-title="NOTICIAS" ,NTN24
+https://stream-01.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1rzxaTlIoQfu3wF97OVcKn8_P5xddfCLwP0wXsAMzba)/dm/3/x7w4okl/s/live-1.m3u8
+
+#EXTINF; -1 ,ECUVISA group-title="NOTICIAS" ,ECUVISA
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
+
+#EXTINF; -1 ,CBTV morelia group-title="NACIONALES" ,CBTV morelia
+https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/chunklist_w1264632454.m3u8
+
+#EXTINF; -1 ,TMTV morelia group-title="NACIONALES" ,TMTV morelia
+https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/chunklist_w1894005117.m3u8
+
+#EXTINF; -1 ,RED + group-title="NOTICIAS" ,RED +
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
+
+#EXTINF; -1 ,MEDIA GRUP morelia group-title="NACIONALES" ,MEDIA GRUP morelia
+https://60417ddeaf0d9.streamlock.net/canal6mich2/videocanal6mich2/chunklist_w75660706.m3u8
+
+#EXTINF; -1 ,TELEFUTURO group-title="PARAGUAY" ,TELEFUTURO
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w1111789204.m3u8
+
+#EXTINF; -1 ,RTVC group-title="NOTICIAS" ,RTVC
+https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/chunklist.m3u8
